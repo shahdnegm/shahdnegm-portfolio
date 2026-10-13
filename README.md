@@ -6,6 +6,8 @@ This portfolio highlights academic work in reliability simulation, manufacturing
 
 ## Featured projects
 
+**Featured publication:** [AI-Powered Automated Optical Inspection — Bachelor's Thesis and Peer-Reviewed Research](projects/automated-optical-inspection/README.md) · [Springer journal article](https://doi.org/10.1007/s00170-026-18704-3)
+
 | Project | Focus | Documentation |
 |---|---|---|
 | [Monte Carlo Production-Line Reliability](projects/monte-carlo-reliability.md) | Discrete-event simulation, statistical distribution fitting, buffers, maintenance strategies | Project overview |
