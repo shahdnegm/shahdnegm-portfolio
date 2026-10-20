@@ -1,32 +1,44 @@
-# Shahd Negm | Engineering Portfolio
+# Shahd Negm | Manufacturing Systems & Engineering Portfolio
 
-**Mechatronics Engineering graduate · MSc Engineering Management student**
+**Mechatronics Engineering graduate · MSc Engineering Management student**  
+**Focus:** Manufacturing Execution Systems (MES) · Manufacturing Operations Management (MOM) · Smart Manufacturing · Quality & Production Data
 
-This portfolio highlights academic work in reliability simulation, manufacturing improvement, mechatronic design and industrial automation.
+I bring hands-on manufacturing experience using **MES at Schaeffler**, alongside academic work in automated inspection, reliability simulation and manufacturing process improvement.
 
-## Featured projects
+## Shop-floor MES experience
 
-**Featured publication:** [AI-Powered Automated Optical Inspection — Bachelor's Thesis and Peer-Reviewed Research](projects/automated-optical-inspection/README.md) · [Springer journal article](https://doi.org/10.1007/s00170-026-18704-3)
+At **Schaeffler**, I used the manufacturing execution system to:
+- Track production items and inspect their manufacturing history and **traceability**.
+- Check and record quality-related information and **quality decisions**, including whether an item was marked for **scrap or rework**.
+- Verify the **next step** in an item's production workflow.
+- Record completed process steps so the item's manufacturing progress could be followed.
 
-| Project | Focus | Documentation |
+This describes **operational use of an existing MES**, not software development or system administration. My experience supports my interest in improving the digital connection between quality decisions and shop-floor execution.
+
+## Featured manufacturing projects
+
+| Project | Problem / technical contribution | Evidence |
 |---|---|---|
-| [Monte Carlo Production-Line Reliability](projects/monte-carlo-reliability.md) | Discrete-event simulation, statistical distribution fitting, buffers, maintenance strategies | Project overview |
-| [Fapofa Kft. Process Improvement](projects/fapofa-process-improvement.md) | PEST/SWOT, Lean, Pareto, process mapping, quality improvement | Project overview |
-| [Robotic Manipulator Arm](projects/robotic-manipulator-arm.md) | 4-DOF mechanical design, motor control, KiCad PCB, MATLAB/Simulink | Project overview |
-| [Line-Following Robot](projects/line-follower-robot.md) | Arduino, infrared line sensing, DC motors | Project overview |
+| [AI-Powered Automated Optical Inspection](projects/automated-optical-inspection/README.md) | Built a vision-based inspection prototype integrating quality decisions and traceability logging | [Peer-reviewed first-author publication](https://doi.org/10.1007/s00170-026-18704-3); 33-bottle benchmark |
+| [Monte Carlo Production-Line Reliability](projects/monte-carlo-reliability.md) | Analysed buffer sizing, failures, preventive maintenance, throughput and bottlenecks | Team evaluated 125 configurations, 1,000 replications each |
+| [Unilever Industrial Engineering Competition](projects/unilever-industrial-engineering.md) | Designed manufacturing-flow and changeover improvement concepts | Quantified *proposed* time reductions and estimated business impact |
+| [Fapofa Quality & Process Improvement](projects/fapofa-process-improvement.md) | Mapped processes and proposed quality-control and Lean improvements | Team academic case study using Pareto, Fishbone and PDCA |
 
-## Selected achievements
+## Other technical projects
 
-- Excellence Award (supporting certificate retained privately)
-- IEEE Creative Award (supporting evidence retained privately)
-- Purple Comet! Math Meet: first-place Egypt, high-school mixed team (2021)
-- Hungarian Startup University Program, first semester completion
-- MATLAB Onramp and Simulink Onramp completion
+- [Robotic Manipulator Arm](projects/robotic-manipulator-arm.md) — mechanical design and motor control.
+- [Line-Following Robot](projects/line-follower-robot.md) — sensors, Arduino and drive control.
 
-## Project attribution and privacy
+## Technical toolkit
 
-The Monte Carlo and Fapofa projects were completed as **team assignments** with **Hana Sayed, Shahd Negm, and Youssif Attia**. This public repository presents summaries of shared academic work, not a claim of sole authorship.
+**Manufacturing & quality:** MES workflow use, item traceability, scrap/rework decisions, AOI/X-ray inspection, process mapping, SMED, PDCA.  
+**Analysis & simulation:** Python, Excel, Monte Carlo simulation, reliability analysis, production KPIs, MATLAB/Simulink.  
+**Automation & inspection:** YOLOv8, image processing, OCR, PLC interface concepts and CAD.
 
-Original certificates, full technical files, and academic records containing personal identifiers are not included in the public portfolio. No confidential workplace material is intentionally published.
+## Publication
 
-**Status:** Curated public showcase; additional sanitized figures and verified presentations may be added after review.
+Negm, Shahd Ayman, et al. (2026). *Vision-based automated optical inspection for real-time quality control: hybrid single-camera deep-learning AOI for mixed-SKU bottling lines.* *The International Journal of Advanced Manufacturing Technology*. [Read publication](https://doi.org/10.1007/s00170-026-18704-3).
+
+## Attribution and sharing policy
+
+Monte Carlo and Fapofa were **academic team projects** with Hana Hesham Sayed and Youssif Attia. Pages distinguish individual and team contributions. Simulated results, proposed targets and estimated savings are **not implemented industrial outcomes**. Original working files remain private pending security and sharing review; the AOI project's unreviewed scripts and datasets are not publicly released. No confidential employer records are shared.
