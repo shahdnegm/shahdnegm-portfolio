@@ -8,6 +8,24 @@
 
 **Journal:** *The International Journal of Advanced Manufacturing Technology*, 146, 1455–1472 (2026). Published online 11 August 2026. DOI: [10.1007/s00170-026-18704-3](https://doi.org/10.1007/s00170-026-18704-3)
 
+## Visual overview — from the original BSc thesis
+
+![Thesis-derived AOI system workflow](figures/aoi-workflow.svg)
+
+The workflow above is a **redrawn schematic** based on the original thesis; it is not a production-system screenshot. The thesis also contains original figures that are suitable for a future visual gallery once their publication rights and identifying details are checked:
+
+| Thesis figure | What it demonstrates |
+|---|---|
+| **Fig. 18 (p. 49)** | Inspection cell hardware and logical data flow |
+| **Fig. 28 (p. 58)** | Physical prototype setup |
+| **Figs. 29–34 (pp. 60–65)** | Actual matching/mismatching label, SKU, volume and expiry-date examples |
+| **Figs. 38–39 (p. 68)** | Good versus defective bottle silhouette-width profiles |
+| **Fig. 40 (p. 69)** | Excel inspection traceability logging |
+| **Figs. 42–44 (pp. 74–78)** | Mechanical rejector, FluidSIM circuit and PLC control logic |
+| **Figs. 51–52 (p. 84)** | Real-time inspection overlays for conforming and nonconforming bottles |
+
+The thesis PDF itself is **not republished** here: it contains personal/university identifiers and some literature figures sourced from other authors.
+
 ## Industrial challenge
 
 Mixed-SKU household-chemical bottling lines require repeatable checks of cap closure, bottle SKU and color, volume-label consistency, expiry codes, and bottle deformation. Manual inspection is inconsistent; conventional multi-camera cells can be costly or difficult to retrofit.
@@ -42,7 +60,7 @@ The proposed design additionally discusses Excel/CSV inspection logging, Telegra
 
 ## Project materials
 
-- [Architecture and inspection workflow](ARCHITECTURE.md)
+- [Architecture and inspection workflow](ARCHITECTURE.md) (including an illustrated thesis-derived diagram)
 - [Published benchmark summary](RESULTS.md)
 - [Publication and citation](PUBLICATION.md)
 
