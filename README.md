@@ -26,7 +26,7 @@ This describes **operational use of an existing MES**, not software development 
 
 ## Other technical projects
 
-- [Robotic Manipulator Arm](projects/robotic-manipulator-arm.md) — mechanical design and motor control.
+- [Robotic Manipulator Arm](projects/robotic-manipulator-arm/README.md) — design and control reports, 11 mechanical drawings, KiCad electronics, MATLAB code and Simulink model.
 - [Line-Following Robot](projects/line-follower-robot.md) — sensors, Arduino and drive control.
 
 ## Technical toolkit
