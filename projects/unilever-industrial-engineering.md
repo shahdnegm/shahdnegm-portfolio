@@ -20,6 +20,12 @@ Develop engineering concepts to reduce changeover and material-handling time in 
 Operational data is useful only when connected to the actual production process. This concept links manufacturing workflow design with process visibility, integration ideas and measurable KPIs.
 
 ## Evidence and limitations
-**These are proposed targets and estimated outcomes**, not implemented or independently verified factory results. No third-party confidential design files are shared here.
+**These are proposed targets and estimated outcomes**, not implemented or independently verified factory results.
 
 **Skills:** SMED, industrial engineering, workflow analysis, process improvement, SAP integration concept, engineering design and estimated business impact.
+
+## Project materials
+
+- [Presentation (PDF)](unilever-industrial-engineering/presentations/Tech-Takers.pdf)
+- [Videos and file guide](unilever-industrial-engineering/README.md)
+
