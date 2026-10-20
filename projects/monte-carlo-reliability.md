@@ -1,7 +1,6 @@
 # Monte Carlo Production-Line Reliability Simulation
 
 **MSc academic team project · University of Debrecen · 2026**  
-**Team:** Shahd Ayman Negm, Hana Hesham Sayed and Youssif Attia
 
 ## Engineering question
 How do stochastic machine failures, repairs and scrap affect a connected production line, and how should buffer capacity and preventive maintenance be chosen?
