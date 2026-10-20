@@ -4,6 +4,22 @@ Academic mechatronics project · University of Debrecen · 2025
 
 A four-degree-of-freedom robotic-arm design for light industrial drilling, combining mechanical design, motor and encoder selection, a KiCad controller design, and MATLAB/Simulink motor-control modelling.
 
+## Project figures
+
+<img src="figures/arm-assembly.png" alt="Four-DOF robotic-arm assembly" width="420">
+
+*Final CAD assembly — design report Fig. 2, PDF p. 4.*
+
+<img src="figures/controller-pcb.jpg" alt="Motor-controller PCB" width="420">
+
+*KiCad motor-controller PCB — design report Fig. 3, PDF p. 6.*
+
+![Simulated controller-response comparison](figures/pid-position.png)
+
+*Simulated controller-response comparison — design report Fig. 6, PDF p. 8.*
+
+[Browse all seven original figures](GALLERY.md), including the base CAD, wiring diagram, cascade-current response and Simulink control structure.
+
 ## Project files
 
 | Area | Files |

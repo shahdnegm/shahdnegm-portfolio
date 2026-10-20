@@ -8,23 +8,25 @@
 
 **Journal:** *The International Journal of Advanced Manufacturing Technology*, 146, 1455–1472 (2026). Published online 11 August 2026. DOI: [10.1007/s00170-026-18704-3](https://doi.org/10.1007/s00170-026-18704-3)
 
-## Visual overview — from the original BSc thesis
+## Original thesis figures
 
-![Thesis-derived AOI system workflow](figures/aoi-workflow.svg)
+![Physical AOI prototype](figures/thesis-fig28-prototype.jpg)
 
-The workflow above is a **redrawn schematic** based on the original thesis; it is not a production-system screenshot. The thesis also contains original figures that are suitable for a future visual gallery once their publication rights and identifying details are checked:
+*Physical prototype setup — thesis Fig. 28, p. 58.*
 
-| Thesis figure | What it demonstrates |
+![Implemented inspection-cell block diagram](figures/thesis-fig18-cell-diagram.png)
+
+*Original implemented-cell diagram — thesis Fig. 18, p. 49.*
+
+| Conforming bottle | Missing expiry code |
 |---|---|
-| **Fig. 18 (p. 49)** | Inspection cell hardware and logical data flow |
-| **Fig. 28 (p. 58)** | Physical prototype setup |
-| **Figs. 29–34 (pp. 60–65)** | Actual matching/mismatching label, SKU, volume and expiry-date examples |
-| **Figs. 38–39 (p. 68)** | Good versus defective bottle silhouette-width profiles |
-| **Fig. 40 (p. 69)** | Excel inspection traceability logging |
-| **Figs. 42–44 (pp. 74–78)** | Mechanical rejector, FluidSIM circuit and PLC control logic |
-| **Figs. 51–52 (p. 84)** | Real-time inspection overlays for conforming and nonconforming bottles |
+| ![Conforming yellow-bottle overlay](figures/thesis-fig51-conforming-overlay.jpg) | ![Purple bottle with missing expiry code](figures/thesis-fig52-nonconforming-overlay.jpg) |
 
-The thesis PDF itself is **not republished** here: it contains personal/university identifiers and some literature figures sourced from other authors.
+*Original real-time inspection overlays — thesis Figs. 51–52, p. 84.*
+
+[Browse all 16 original figures](GALLERY.md), including color/label and volume checks, expiry OCR, deformation examples, Excel logging, and the rejector/PLC design.
+
+The [redrawn workflow schematic](figures/aoi-workflow.svg) is also available. The gallery contains extracted thesis figures; the complete thesis is not republished here.
 
 ## Industrial challenge
 
