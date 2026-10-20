@@ -2,6 +2,20 @@
 
 **Primary source:** [Negm et al. (2026)](https://doi.org/10.1007/s00170-026-18704-3)
 
+## At-a-glance comparison
+
+The bar lengths below visualize the **reported accuracy on the 33-bottle integrated benchmark**. These are not estimates of performance on unseen industrial datasets.
+
+| Inspection check | Accuracy | Visual comparison |
+|---|---:|---|
+| Hybrid cap sealing | **100.0%** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+| Color / SKU | **100.0%** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+| Structural deformation | **97.0%** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |
+| Label conformity | **90.9%** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |
+| Expiry-code OCR | **87.9%** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ |
+
+*Each icon represents roughly ten percentage points; the numeric column is authoritative. The small integrated test set and task-specific metric definitions limit generalization.*
+
 ## Integrated benchmark
 
 The publication reports an end-to-end station benchmark containing **33 mixed-SKU bottles**. Ground truth was assigned from visual inspection and process knowledge. Learning components were developed on separate task-specific datasets.
