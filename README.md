@@ -41,4 +41,4 @@ Negm, Shahd Ayman, et al. (2026). *Vision-based automated optical inspection for
 
 ## Attribution and sharing policy
 
-Monte Carlo and Fapofa were **academic team projects**. Pages distinguish individual and team contributions. Simulated results, proposed targets and estimated savings are **not implemented industrial outcomes**. The Monte Carlo workbook and Python simulation are public; the AOI project's unreviewed scripts and datasets are not publicly released. No confidential employer records are shared.
+Monte Carlo and Fapofa were **academic team projects**. Pages distinguish individual and team contributions. Simulated results, proposed targets and estimated savings are **not implemented industrial outcomes**. The Monte Carlo workbook and Python simulation are public; the AOI project's scripts and datasets are not publicly released. 
