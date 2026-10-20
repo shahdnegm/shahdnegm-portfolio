@@ -26,10 +26,10 @@ The same signals tracked in production software—machine state, throughput, dow
 
 **Skills:** Python, Excel, Monte Carlo simulation, reliability engineering, statistical analysis, production KPIs.
 
-**Sharing:** The project summary and original team Python simulation script are public. The Excel workbook and underlying data have not yet been uploaded to this repository.
+## Public workbook and Python source
 
-## Public Python source
+- [Download the Excel workbook](monte-carlo-reliability/data/Project_Monte_Carlo_Complete.xlsx).
+- [View the original team simulation script](monte-carlo-reliability/src/production_line_simulation_V3_experiment.py).
+- [Setup and run instructions](monte-carlo-reliability/README.md).
 
-[View the original team simulation script](monte-carlo-reliability/src/production_line_simulation_V3_experiment.py).
-
-The script expects model parameters in an Excel workbook with a `Model Inputs` worksheet and uses `openpyxl`. Run it with `--help` for command options. The Excel workbook is not yet published, so the public repository alone is not yet reproducible. This source is an academic team contribution, not solely Shahd's work.
+Both files are public. The Python source is preserved unchanged. The workbook includes the `Model Inputs` worksheet read by the simulation; see the README for the explicit workbook path, validation command and experiment options. This is an academic team contribution, not solely Shahd's work.
