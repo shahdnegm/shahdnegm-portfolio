@@ -4,4 +4,4 @@ Academic mechatronics project focused on a 4-DOF robotic arm for light industria
 
 **Skills:** CAD, mechatronic integration, PCB design, motor control, MATLAB and Simulink.
 
-Source reports and drawings remain in the private archive because they include student-identifying records.
+[Explore the project files and opening instructions](robotic-manipulator-arm/README.md): design report, motor-control report, eleven mechanical drawings, KiCad PCB/schematic files, MATLAB code and the Simulink model. Public copies omit the university student ID; originals remain in the private archive.
