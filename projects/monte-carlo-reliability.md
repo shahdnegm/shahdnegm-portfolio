@@ -27,7 +27,7 @@ The same signals tracked in production software—machine state, throughput, dow
 
 **Skills:** Python, Excel, Monte Carlo simulation, reliability engineering, statistical analysis, production KPIs.
 
-**Sharing:** Public project case study only. Original code and data are currently in a private working repository while teammate permissions and safe sharing are reviewed.
+**Sharing:** The project summary and original team Python simulation script are public. The Excel workbook and underlying data have not yet been uploaded to this repository.
 
 ## Public Python source
 
