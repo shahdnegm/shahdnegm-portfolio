@@ -22,6 +22,7 @@ This describes **operational use of an existing MES**, not software development 
 | [AI-Powered Automated Optical Inspection](projects/automated-optical-inspection/README.md) | Built a vision-based inspection prototype integrating quality decisions and traceability logging | [Peer-reviewed first-author publication](https://doi.org/10.1007/s00170-026-18704-3); 33-bottle benchmark |
 | [Monte Carlo Production-Line Reliability](projects/monte-carlo-reliability.md) | Analysed buffer sizing, failures, preventive maintenance, throughput and bottlenecks | Team evaluated 125 configurations, 1,000 replications each |
 | [Unilever Industrial Engineering Competition](projects/unilever-industrial-engineering.md) | Designed manufacturing-flow and changeover improvement concepts | Quantified *proposed* time reductions and estimated business impact |
+| [Olist E-Commerce Delivery Reliability — Six Sigma DMAIC](projects/olist-delivery-dmaic/README.md) | Historical order-level delivery KPI analysis, freight/geography segmentation, Ishikawa and proposed pilot/control plans | 96,470 eligible deliveries; 6.77% provisional date-based late rate |
 | [Fapofa Quality & Process Improvement](projects/fapofa-process-improvement.md) | Mapped processes and proposed quality-control and Lean improvements | Team academic case study using Pareto, Fishbone and PDCA |
 
 ## Other technical projects
